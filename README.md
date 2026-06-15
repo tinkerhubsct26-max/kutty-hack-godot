@@ -1,3 +1,7 @@
+![KuttyHack](https://img.shields.io/badge/KuttyHack-2.0-8A2BE2?style=for-the-badge)
+![Godot](https://img.shields.io/badge/Godot-Game_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Weekend Build](https://img.shields.io/badge/Built_In-Weekend-FF6B35?style=for-the-badge)
+
 # 🎮 KuttyHack 2.0 
 
 ## What is KuttyHack?
